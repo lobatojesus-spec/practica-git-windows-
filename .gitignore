@@ -1,0 +1,7 @@
+cat > .gitignore << 'EOF'
+# Archivos y carpetas a ignorar
+__pycache__/
+*.log
+.env
+EOF
+
